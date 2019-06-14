@@ -4,7 +4,7 @@ var magic8Ball = {};
 magic8Ball.listOfAnswers = ["It is certain", "It is decidedly so", "Without a doubt", "Yes, definitely", "You may rely on it", 
 "If you believe in yourself then yes", "Most likely", "Outlook good", "Yes", "Signs point to yes", "Reply hazy, Try again", 
 "Ask again later", "It is better I don't tell you now", "Cannot predict now", "Concentrate and ask again", "Don't count on it", 
-"In your dreams", "My sources say no", "Outlook not so good", "When Pigs Fly!"]; 
+"In your dreams", "My sources say no", "Outlook not so good", "When Pigs Fly!", "Im afraid to tell you, you won't like it"]; 
 	
 $("#answer").hide();
 
